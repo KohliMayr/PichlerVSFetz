@@ -1,7 +1,7 @@
-!2345
-Hawi
-213143132
-Hui
-Lol
-Ramba
-
+Name: Pichler
+Kurzbeschreibung: 
+	- Hauptcharakter 
+	- kann Lateinbücher schießen
+	- ...
+Sprite: Nein
+Gameplay: Nein
