@@ -6,3 +6,14 @@ Kurzbeschreibung:
 Sprite: Nein
 Gameplay: Nein
 
+---------------------------------------------------------------------------------------------
+
+Name: Peter Pixel
+Kurzbeschreibung:
+	- Könnte in einer Szene vorkommen, in welcher die Rathgeb die SA von Woifi vorliest
+	- Man spielt dann Quasi in der Geschichte
+Sprite: Nein
+Gameplay: Nein
+
+
+---------------------------------------------------------------------------------------------
